@@ -1,0 +1,18 @@
+com/belajarandroid/navdrawer/databinding/NavHeaderMainBinding.java
+ com.belajarandroid.navdrawer.databinding.NavHeaderMainBinding
+com/belajarandroid/navdrawer/databinding/FragmentHomeBinding.java
+ com.belajarandroid.navdrawer.databinding.FragmentHomeBinding
+com/belajarandroid/navdrawer/databinding/ContentMainBinding.java
+ com.belajarandroid.navdrawer.databinding.ContentMainBinding
+com/belajarandroid/navdrawer/databinding/FragmentSlideshowBinding.java
+ com.belajarandroid.navdrawer.databinding.FragmentSlideshowBinding
+com/belajarandroid/navdrawer/databinding/ActivityMainBinding.java
+ com.belajarandroid.navdrawer.databinding.ActivityMainBinding
+com/belajarandroid/navdrawer/databinding/FragmentGalleryBinding.java
+ com.belajarandroid.navdrawer.databinding.FragmentGalleryBinding
+com/belajarandroid/navdrawer/BuildConfig.java
+ com.belajarandroid.navdrawer.BuildConfig
+com/belajarandroid/navdrawer/databinding/ActivityMain2Binding.java
+ com.belajarandroid.navdrawer.databinding.ActivityMain2Binding
+com/belajarandroid/navdrawer/databinding/AppBarMainBinding.java
+ com.belajarandroid.navdrawer.databinding.AppBarMainBinding
